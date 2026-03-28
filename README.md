@@ -5,7 +5,7 @@
 <h3 align="center">Building scalable web solutions and intelligent systems from India.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://linkedin.com/in/bishal-mandal-0bb756264" target="_blank">
     <img src="https://img.shields.io" alt="LinkedIn" />
   </a>
 </p>
