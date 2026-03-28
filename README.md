@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/heyiamyourBishalMandal">
-    <img src="https://github-readme-stats.vercel.app/api?username=heyiamyourBishalMandal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Bishal's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyiamyourBishalMandal&theme=tokyonight&hide_border=true" alt="Bishal's GitHub Streak" />
   </a>
   
 </p>
