@@ -8,22 +8,9 @@
  
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io" alt="LinkedIn" />
+    <img src="./linkedin-badge.svg" alt="LinkedIn">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://badgen.net" alt="LinkedIn" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
