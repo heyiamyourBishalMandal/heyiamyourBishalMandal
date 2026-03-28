@@ -29,7 +29,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,php,mysql,git,github,vscode" alt="Bishal's Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,php,mysql,git,github" alt="Bishal's Skills" />
 </p>
 
 ---
