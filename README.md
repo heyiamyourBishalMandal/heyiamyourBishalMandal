@@ -5,11 +5,8 @@
 <h3 align="center">Building scalable web solutions and intelligent systems from India.</h3>
 
 <p align="center">
-  <a href="your-linkedin-url" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="your-github-url" target="_blank">
-    <img src="https://img.shields.io" alt="GitHub" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io" alt="LinkedIn" />
   </a>
 </p>
 
