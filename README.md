@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bishal Mandal</h1>
-<h3 align="center">A passionate web developer from India building scalable solutions.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bishal+Mandal+👋;Passionate+Web+Developer;AI+%26+Python+Enthusiast;BCA+Graduate" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Building scalable web solutions and intelligent systems from India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/bishal-mandal-0bb756264" target="_blank">
@@ -14,34 +17,29 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **a personalized AI assistant** and **web platforms for local businesses**.
-- 🎓 I recently graduated with a **Bachelor of Computer Applications (BCA)**.
-- 🌱 I’m currently refining my skills in **Python, advanced C++, and Full-Stack Web Development**.
-- 🎯 My long-term objective is to build impactful software at top tech companies like **Google**.
-- 💬 Ask me about **Frontend design, database management, or my latest AI projects!**
+- 🎓 I recently completed my **BCA (Bachelor of Computer Applications)** in 2025.
+- 🔭 I’m currently working on building **personalized AI assistants** and developing digital platforms for local businesses.
+- 🌱 I’m actively sharpening my skills in **Python, C++, and Full-Stack Web Development**, while also preparing to crush the NIMCET exams.
+- 🎯 My ultimate goal is to engineer high-impact software at top tech companies.
+- 💬 Ask me about: **Frontend architecture, database management, or integrating AI into web apps!**
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<h3 align="left">🛠️ Languages and Tools</h3>
-
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/> </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,php,mysql,git,github,vscode" alt="Bishal's Skills" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyiamyourBishalMandal&show_icons=true&theme=radium" alt="Bishal's GitHub Stats" />
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Bishal's GitHub Stats" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyiamyourBishalMandal/&theme=radium&hide_border=true" alt="Bishal's GitHub Streak" />
+  </a>
 </p>
