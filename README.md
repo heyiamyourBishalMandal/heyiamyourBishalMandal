@@ -2,14 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bishal;Passionate+Web+Developer;AI+and+Python+Enthusiast;BCA+Graduate" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Building scalable web solutions and intelligent systems from India 🇮🇳</h3>
+<h3 align="center">Building scalable web solutions and intelligent systems from India.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bishal-mandal-0bb756264" target="_blank">
+  <a href="your-linkedin-url" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  <a href="your-github-url" target="_blank">
+    <img src="https://img.shields.io" alt="GitHub" />
+  </a>
 </p>
+
 
 ---
 
@@ -31,12 +34,12 @@
 
 ---
 
-📊GitHub Activity
+<!--📊GitHub Activity
 
 <p align="center">
   <a href="https://github.com/heyiamyourBishalMandal">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyiamyourBishalMandal&theme=tokyonight&hide_border=true" alt="Bishal's GitHub Streak" />
-  </a>
+  </a> 
   
 </p>
-
+-->
