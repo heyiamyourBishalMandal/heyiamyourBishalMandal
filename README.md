@@ -4,9 +4,9 @@
 
 <h3 align="center">Building scalable web solutions and intelligent systems from India.</h3>
 
-<!-- <p align="center"> <a href="https://linkedin.com/in/bishal-mandal-0bb756264" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; </p><p align="center"> <a href="https://linkedin.com/in/bishal-mandal-0bb756264" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; </p>
- -->
-<p align="center"><a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io" alt="LinkedIn"></a></p>
+<p align="center"> <a href="https://linkedin.com/in/bishal-mandal-0bb756264" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; </p><p align="center"> <a href="https://linkedin.com/in/bishal-mandal-0bb756264" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; </p>
+ 
+<<!-- <p align="center"><a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io" alt="LinkedIn"></a></p>  -->
 
 
 ---
